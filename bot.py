@@ -5,7 +5,6 @@ from typing import Set, Optional
 
 import requests
 from botbuilder.core import ActivityHandler, TurnContext, MessageFactory
-from botbuilder.schema import Attachment
 from bs4 import BeautifulSoup
 
 
